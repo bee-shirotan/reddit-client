@@ -6,6 +6,7 @@ class Post extends React.Component {
             <div>
                 <h1> 
                     i'm post id: {this.props.post.id} 
+                    can't make this only on one page
                 </h1>
             </div>
         );
